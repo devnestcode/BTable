@@ -1,0 +1,28 @@
+{
+  "name": "tablenc",
+  "version": "1.0.0",
+  "description": "Table grid",
+  "main": "main.jsx",
+  "repository": "https://github.com/devnestcode/BTable.git",
+  "author": "nestcode-betoezker",
+  "license": "MIT",
+  "private": false,
+  "maintainers": [
+    {
+      "name": "Alberto Abraham Ramirez Sanchez",
+      "email": "admin@nestcode.com.mx"
+    },
+    {
+      "name": "Mario Alberto Nonato Carrillo",
+      "email": "admin@nestcode.com.mx"
+    }
+  ],
+  "homepage": "https://nestcode.com.mx/",
+  "peerDependencies": {
+    "axios": "^0.27.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sweetalert2": "^11.4.20",
+    "sweetalert2-react-content": "^5.0.1"
+  }
+}
