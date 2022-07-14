@@ -4,7 +4,7 @@ import axios from 'axios';
 import 'bootstrap/dist/js/bootstrap.bundle.min';
 import { BTable } from './components/table/TableGridC';
 
-export { BTable } from './TableGridC'
+export * from './TableGridC'
 //Nota: necesario contar con SweetAlert, Axios, ziggy, bootstrap (cdn o instalado) !important
 
 
