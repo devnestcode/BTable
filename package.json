@@ -1,8 +1,8 @@
 {
   "name": "tablenc",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Table grid",
-  "main": "main.jsx",
+  "main": "./App.jsx",
   "repository": "https://github.com/devnestcode/BTable.git",
   "author": "nestcode-betoezker",
   "license": "MIT",
