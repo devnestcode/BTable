@@ -1,6 +1,6 @@
 {
   "name": "tablenc",
-  "version": "1.1.6",
+  "version": "1.1.8",
   "description": "Table grid",
   "main": "./app.js",
   "repository": "https://github.com/devnestcode/BTable.git",
